@@ -2,7 +2,7 @@
 
 # Selam, ben Salih :cloud:
 
-## • Cyber Security, Software/Developer, Social Media Marketing.
+## • Software/Developer, Social Media Marketing, Social Media Managment.
 
 
 <font color="orange"> Havalı bir söz `<code/>`
@@ -24,14 +24,7 @@ E-posta: <a href="mailto:#">salihkayatemir@gmail.com</a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="23" width="23">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="22" width="22">
-<br/>
 
-## Projelerim
-• [İletişim](<a href="mailto:#">salihkayatemir@gmail.com</a>)
-<br/>
-• [Netalancer](https://jobs.netafast.com)
-<br />
-• [Netafast](https://netafast.com)
 <br />
 <br />
 
